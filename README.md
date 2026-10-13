@@ -74,4 +74,6 @@ Le notebook a été développé sous Google Colab : [https://colab.research.goog
 
 ## Outils utilisés
 
-Python (pandas, matplotlib, seaborn, folium), Google Colab.
+Python 3.10+ (pandas, matplotlib, seaborn, folium), Google Colab.
+
+Installation locale : `pip install -r requirements.txt` (le notebook a été développé sous Google Colab, où ces bibliothèques sont préinstallées).
